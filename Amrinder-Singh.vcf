@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Singh;Amrinder;;;
+FN:Amrinder Singh
+ORG:FirstService Residential
+TITLE:Service Manager
+TEL;TYPE=WORK,CELL:+16474011834
+EMAIL;TYPE=INTERNET,WORK:amrinder.singh@fsresidential.com
+ADR;TYPE=WORK:;;111 Gordon Baker Rd #700;North York;ON;M2H 3R1;Canada
+URL:https://www.fsresidential.com
+END:VCARD

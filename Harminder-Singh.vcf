@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Singh;Harminder;;;
+FN:Harminder Singh
+ORG:FirstService Residential
+TITLE:Senior Service Manager
+TEL;TYPE=WORK,CELL:+14166703709
+EMAIL;TYPE=INTERNET,WORK:harminder.singh@fsresidential.com
+ADR;TYPE=WORK:;;111 Gordon Baker Rd #700;North York;ON;M2H 3R1;Canada
+URL:https://www.fsresidential.com
+END:VCARD
