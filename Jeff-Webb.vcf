@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Webb;Jeff;;;
+FN:Jeff Webb
+ORG:FirstService Residential
+TITLE:Sr. Vice President, Property Services
+TEL;TYPE=WORK,CELL:+14165641174
+EMAIL;TYPE=INTERNET,WORK:jeff.webb@fsresidential.com
+ADR;TYPE=WORK:;;111 Gordon Baker Rd #700;North York;ON;M2H 3R1;Canada
+URL:https://www.fsresidential.com
+END:VCARD
